@@ -441,6 +441,8 @@ class YoutubeBaseInfoExtractor(InfoExtractor):
         r'(?:www\.)?hyperpipe\.esmailelbob\.xyz',
         r'(?:www\.)?listen\.whatever\.social',
         r'(?:www\.)?music\.adminforge\.de',
+        # kanker.dev piped instance
+        r'(?:www\.)?piped\.kanker\.dev',
     )
 
     # extracted from account/account_menu ep
